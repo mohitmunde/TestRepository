@@ -1,1 +1,2 @@
 Welcome to Git
+bug1 is added in idea1
