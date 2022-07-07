@@ -3,6 +3,8 @@ Welcome to Git
 Commit is added in master
 
 bug1 is added in idea1
+THIS IS THE MAIN BRANCH TO CHECK REBASE PREVIOUS IS MISTAKE
+
 
 Branch 2 is added for rebase 
 
